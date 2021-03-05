@@ -38,4 +38,5 @@ function Clear()
     document.getElementById("Chat1").innerHTML = "";
     document.getElementById("Chat2").innerHTML = "";
     document.getElementById("Chat3").innerHTML = "";
+    wish = 0;
 }
