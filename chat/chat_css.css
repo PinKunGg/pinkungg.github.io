@@ -2,7 +2,7 @@ body
 {
     text-align: center;
     background-color: cornflowerblue;
-    background-image: url('bg.jpg');
+    background-image: url("pic/bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
